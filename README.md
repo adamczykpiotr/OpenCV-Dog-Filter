@@ -16,6 +16,8 @@ OpenCV-Dog-Filter.exe -1 /footage.mp4 1
 * Second argument: Video / image path (ignored in webcam mode) (can be omitted)
 * Third argument: 1 (show ellipsis around each face and eye) or 0 (defalut; do not) (can be omitted)
 
+[Download link](https://github.com/adamczykpiotr/OpenCV-Dog-Filter/releases/tag/v1.0)
+
 Help:
 ```
 OpenCV-Dog-Filter.exe --help
